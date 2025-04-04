@@ -106,11 +106,7 @@ C++ | Docker | Python | TensorFlow | PyTorch | OpenCV | Numpy | Scipy | Sci-kit 
 
 ## 📫 Let's Connect!
 
-- 📧 Email: *your-email@example.com*  
-- 🔗 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com) *(Replace with yours)*  
-- 🌐 Portfolio (optional): *Add link if available*
+- 📧 Email: *shah.venus03@gmail.com*  
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/venus-shah-8a559610b/)  *(Replace with yours)*] 
 
----
-
-> _"The best way to predict the future is to invent it."_ – Alan Kay
 
