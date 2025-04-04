@@ -107,6 +107,6 @@ C++ | Docker | Python | TensorFlow | PyTorch | OpenCV | Numpy | Scipy | Sci-kit 
 ## 📫 Let's Connect!
 
 - 📧 Email: *shah.venus03@gmail.com*  
-- 🔗 LinkedIn: [(https://www.linkedin.com/in/venus-shah-8a559610b/)  *(Replace with yours)*] 
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/venus-shah-8a559610b/)] 
 
 
